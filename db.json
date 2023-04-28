@@ -1,0 +1,50 @@
+{
+    "Cardata":[
+  {
+"id":1,
+"category":"mahindra",
+"car_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwF5A3wJrqquPuKwa2gcqZsgOzSSuyBXnoOQ&usqp=CAU",
+"name":"Sorpio"
+
+  },
+  {
+    "id":2,
+"category":"mahindra",
+"car_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_YpGJJk-hYWDe_OgG1OUFNjffnQ4dvO2oA&usqp=CAU",
+"name":"Thar"
+  },
+  {
+    "id":3,
+"category":"toyota",
+"car_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA3lCRUoDYbHyvw9GTraZ7S9-QLcRCemcUVA&usqp=CAU",
+"name":"Fortuner"
+  },
+  {
+    "id":4,
+"category":"toyota",
+"car_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyX990HUXGZcBIF-V9GGl59AeORmDuqinbgQ&usqp=CAU",
+"name":"Innova"
+  },
+  {
+    "id":5,
+"category":"kia",
+"car_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuKcX6nxJCmnv9o6gEQ4t8xOikBqaYB9kqg&usqp=CAU",
+"name":"stringer"
+  },
+  {
+    "id":6,
+"category":"kia",
+"car_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4P0EMsMm971xDWM7TrYbZ_SwYVjBTD16aQ&usqp=CAU",
+"name":"saltos"
+  }
+      ]
+
+
+
+    }
+    
+    
+    
+
+
+    
